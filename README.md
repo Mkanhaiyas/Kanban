@@ -129,7 +129,7 @@ npm run dev
 ## 🖼️ Screenshots
 
 ### Kanban Board
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb51e38d-d46f-4be5-b1fc-0e799a4c6ad1" />
+<img width="1920" height="1029" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/08de1f84-5206-4e26-84ad-989b5afe0ad9" />
 
 ### Create Task Modal
 <img width="1920" height="1029" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/6b5781e6-9c80-479a-a217-e891066b42a4" />
